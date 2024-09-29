@@ -32,9 +32,6 @@ public class Maxin {
                     System.out.println("배열 사이즈 : " + Array.size());
                     System.out.println("최대값 : " + max + " | 위치 : " + (Array.indexOf(max)+1)); // 다 구해놓은 값에 indexOf를 사용하여 min과 max의 인덱스 번호를 찾아주면 해결
                     System.out.println("최소값 : " + min + " | 위치 : " + (Array.indexOf(min)+1)); // 위치 : +1은 인덱스 0을 제거하고 사용자가 확인하기 더 편리하게 설정해보았다.
-
-
-
                     break;
                 } else {
                     System.out.println("1 이상의 정수를 입력하세요.");
