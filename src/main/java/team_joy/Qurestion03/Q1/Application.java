@@ -1,4 +1,4 @@
-package Qurestion03.Q1;
+package team_joy.Qurestion03.Q1;
 
 public class Application {
     public static void main(String[] args) {

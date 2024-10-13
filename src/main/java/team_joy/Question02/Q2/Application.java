@@ -1,4 +1,4 @@
-package Question02.Q2;
+package team_joy.Question02.Q2;
 
 public class Application {
     //체스판은 8×8크기이고, 검정 칸과 하얀 칸이 번갈아가면서 색칠되어 있다.
